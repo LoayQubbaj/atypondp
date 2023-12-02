@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+creation of file1
 add file1 to develop branch
 this line is added by ahmad on the feature branch
-=======
 this line is added by samer on the samerfeature branch
->>>>>>> feature/samerfeature
+checked for spelling mistakes
+crucial updates made on hotfix
